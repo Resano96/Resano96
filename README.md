@@ -12,7 +12,7 @@ Aquí están las tecnologías con las que trabajo:
 - **Herramientas**: [Si no tengo entendido mal, los diferentes tipos de entornos en los que pico codigo podrian entrar en herramientas por lo que... Utilizo VSCode, IntelliJ y Pycharm.]
 - **Actualmente aprendiendo**: [En esta seccion me puedo explayar mas ya que me encanta aprender cosas nuevas, estoy aprendiendo los anteriores lenguajes, tambien estoy dando mis primeros pasos en MySQL, y saliendome del sector de la programacion... Estoy aprendiendo a programar en Dynamo, un lenguaje que se utiliza para programar scripts en Revit.]
 
-## Sobre mi
+## 💡 Sobre mi
 
 Hasta ahora he estado trabajando en la construccion, sobre todo a pie de obra. Siempre me ha gustado dibujar por lo que vi un hueco en el mercado al aprender Revit. Tambien me ha gustado siempre toquitear cosas, en su dia le cambiaba la ROM a mi Samsung S2 casi a diario. Segun fui creciendo fui entrando en la informatica de forma indirecta ya que tambien me gustaba trastear en los juegos con CheatEngine.
 
