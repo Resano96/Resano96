@@ -8,9 +8,9 @@ Soy un estudiante de programacion al que le encanta buscar formas alternativas y
 
 Aquí están las tecnologías con las que trabajo:
 
-- **Lenguajes**: [Podria decir que manejo todos los lenguajes que estamos aprendiendo en el grado y en el master pero seria mentir... Realmente cacharreo en Java, Python y HTML.]
+- **Lenguajes**: [Podria decir que manejo todos los lenguajes que estamos aprendiendo en el grado y en el master pero seria mentir... Realmente cacharreo en Java, Python, HTML, CSS JavaScript y SQL]
 - **Herramientas**: [Si no tengo entendido mal, los diferentes tipos de entornos en los que pico codigo podrian entrar en herramientas por lo que... Utilizo VSCode, IntelliJ y Pycharm.]
-- **Actualmente aprendiendo**: [En esta seccion me puedo explayar mas ya que me encanta aprender cosas nuevas, estoy aprendiendo los anteriores lenguajes, tambien estoy dando mis primeros pasos en MySQL, y saliendome del sector de la programacion... Estoy aprendiendo a programar en Dynamo, un lenguaje que se utiliza para programar scripts en Revit.]
+- **Actualmente aprendiendo**: [En esta seccion me puedo explayar mas ya que me encanta aprender cosas nuevas, estoy aprendiendo los anteriores lenguajes y saliendome del sector de la programacion (a medias)... Estoy aprendiendo a programar en Dynamo, un lenguaje que se utiliza para programar scripts en Revit.]
 
 ## 💡 Sobre mi
 
