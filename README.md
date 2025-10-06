@@ -28,7 +28,7 @@ Hasta ahora he estado trabajando en la construccion, sobre todo a pie de obra. S
 
 ¡No dudes en contactarme! Puedes encontrarme en:
 
-- 🌐 [Mi portafolio](https://ander-resano.netlify.app/)
+- 🌐 [Mi portafolio](https://studio--studio-6484600026-fcdd6.us-central1.hosted.app/)
 - 📧 [Correo electrónico](mailto:ander.resano@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ander-resano-farelo-136661129/)
   
