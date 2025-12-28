@@ -19,10 +19,7 @@ Hasta ahora he estado trabajando en la construccion, sobre todo a pie de obra. S
 
 ## 📊 Estadísticas de GitHub
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Resano96&layout=compact&theme=dark)
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Resano96&show_icons=true&theme=dark)
-
+![Lenguajes GitHub Dark Match](https://metrics.lecoq.io/Resano96?template=classic&base=0&languages=1&languages.limit=6&config.colors.bg_color=0d1117&config.colors.border_color=30363d&config.colors.color=c9d1d9)
 
 ## 📫 Contacto
 
